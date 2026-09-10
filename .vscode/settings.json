@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/home/lawson/miniforge3/envs/lerobot_usb/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.extraPaths": [
+        "/home/lawson/lerobot/src"
+    ]
+}

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=78", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usb-insertion"
+version = "0.1.0"
+description = "SO-101 + LeRobot + ACT USB-A insertion task"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["src"]
